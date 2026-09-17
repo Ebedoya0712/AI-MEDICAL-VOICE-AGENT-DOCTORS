@@ -152,8 +152,8 @@ AI-MEDICAL-VOICE-AGENT/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SrijaVuppala295/AI_MEDICAL_AGENT.git
-cd AI_MEDICAL_AGENT
+git clone https://github.com/Ebedoya0712/AI-MEDICAL-VOICE-AGENT-DOCTORS.git
+cd AI-MEDICAL-VOICE-AGENT-DOCTORS
 ```
 
 ### 2. Install Dependencies

@@ -1,6 +1,7 @@
 {
   "name": "ai-medical-voice-agent-doctors",
   "version": "0.1.0",
+  "description": "Doctors Appointment App (https://ai-medical-voice-agent-b6q6.vercel.app/)",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
@@ -52,3 +53,5 @@
     "tw-animate-css": "^1.2.9"
   }
 }
+
+
